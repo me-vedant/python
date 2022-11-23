@@ -17,7 +17,7 @@ Sheet Name:- 3] Global_Superstore_3
 		-> Dynamic sheet(Create parameter & create New Field)
 		->Dynamic sheets using IF ...ELSE.....End [Sum,AVG, CONT]
 		-> Country filererd by region using No of Products/customer field (COUNTD() Function)
-		->FInding no of days using DATEDIFF function inside crt new field &  attribute  ,average filter
+		->FInding no of days using DATEDIFF function inside crt new field &  attribute  ,average filter and sort on ORDERID field
 		->IF Else Conditions with Messages
 		->Finding AVG(Average) Measure (profit) per Product 
 		->COUNT() , COUNTD() Function , Count with Condition	
